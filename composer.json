@@ -1,10 +1,11 @@
 {
     "name": "dev9ts9/dev9ts9",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "Dev9 Ts9 Demo",
     "type": "magento2-module",
     "license": "MIT",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
     "autoload": {
         "files": [
             "registration.php"
