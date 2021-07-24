@@ -1,15 +1,14 @@
 {
-    "name": "dev9ts9/demo",
+    "name": "dev9ts9/dev9ts9",
     "version": "0.0.1",
     "description": "Dev9 Ts9 Demo",
     "type": "magento2-module",
-    "license": [
-        "OSL-3.0",
-        "AFL-3.0"
-    ],
+    "license": "MIT",
+    "minimum-stability": "stable",
     "autoload": {
         "files": [
             "registration.php"
         ] 
-    }
+    },
+    "require": {}
 }
