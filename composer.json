@@ -9,7 +9,11 @@
     "autoload": {
         "files": [
             "registration.php"
-        ] 
+        ],
+        "psr-4": 
+        {
+            "Dev9Ts9\\Dev9Ts9\\": ""
+        }
     },
     "require": {}
 }
