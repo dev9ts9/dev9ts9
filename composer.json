@@ -4,7 +4,7 @@
     "description": "Dev9 Ts9 Demo",
     "type": "magento2-module",
     "license": "MIT",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "autoload": {
         "files": [
             "registration.php"
