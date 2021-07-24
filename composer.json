@@ -2,8 +2,6 @@
     "name": "dev9ts9/demo",
     "version": "0.0.1",
     "description": "Dev9 Ts9 Demo",
-    "require": { 
-    },  
     "type": "magento2-module",
     "license": [
         "OSL-3.0",
